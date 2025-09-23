@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Ocean Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ]
+  ],
+  "legacy_uid": "a20eb369-9cc8-4bde-7e2e-559130b58a07",
+  "instructors": {
+    "content": [
+      "e2e4b0ae-0aff-4941-d4cf-47ce9c9b2873",
+      "ac95a6d2-c06d-6397-cf8e-2f18cfab7ab7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e218d26e-7f6b-d30c-c010-72f67cc75d8d",
+    "website": "2-s998-marine-autonomy-sensing-and-communications-spring-2012"
+  },
+  "course_title": "Marine Autonomy, Sensing and Communications",
+  "course_description": "This course covers basic topics in autonomous marine vehicles, focusing mainly on software and algorithms for autonomous decision making (autonomy) by underwater vehicles operating in the ocean environments, autonomously adapting to the environment for improved sensing performance. It will introduce students to underwater acoustic communication environment, as well as the various options for undersea navigation, both crucial to the operation of collaborative undersea networks for environmental sensing. Sensors for acoustic, biological and chemical sensing by underwater vehicles and their integration with the autonomy system for environmentally adaptive undersea mapping and observation will be covered. The subject will have a significant lab component, involving the use of the MOOS-IvP autonomy software infrastructure for developing integrated sensing, modeling and control solutions for a variety of ocean observation problems, using simulation environments and a field testbed with small autonomous surface craft and underwater vehicles operated on the Charles River.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.S998",
+  "course_image_thumbnail": {
+    "content": "e2a133cb-4a7d-7edd-eb64-d4418545ca8d",
+    "website": "2-s998-marine-autonomy-sensing-and-communications-spring-2012"
+  },
+  "learning_resource_types": [],
+  "site_uid": "60e52f55-bb9a-489c-97a2-012de3c494f5",
+  "site_short_id": "2.s998-spring-2012",
+  "site_url_path": "courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012",
+  "title": "Course Metadata"
+}

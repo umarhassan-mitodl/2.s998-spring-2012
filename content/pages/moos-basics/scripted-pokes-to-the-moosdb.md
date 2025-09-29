@@ -2,6 +2,8 @@
 content_type: page
 description: This page addresses the concept of having a script of pre-arranged pokes
   to the MOOSDB.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics
@@ -16,7 +18,7 @@ This page addresses the concept of having a script of pre-arranged pokes to the 
 Basic uTimerScript Usage
 ------------------------
 
-uTimerScript is configured with its own block in the MOOS configuration file. The general format is below. The primary entries are the events themselves, defined by a MOOS variable, value, and time or time-range when the event is to occur. There are many options for configuring the script. These options are described in the {{% resource_link "717e885f-86b0-4bb2-832a-16b5a82deee8" "IvP Helm Documentation and MOOS Documentation" %}}, but a quick look at the options can be seen by typing "uTimerScript—example" on the command line.
+uTimerScript is configured with its own block in the MOOS configuration file. The general format is below. The primary entries are the events themselves, defined by a MOOS variable, value, and time or time-range when the event is to occur. There are many options for configuring the script. These options are described in the [IvP Helm Documentation and MOOS Documentation](http://oceanai.mit.edu/moos-ivp/docs.html), but a quick look at the options can be seen by typing "uTimerScript—example" on the command line.
 
 ```
  ProcessConfig = uTimerScript
@@ -30,7 +32,7 @@ uTimerScript is configured with its own block in the MOOS configuration file. Th
  } 
 ```
 
-Further options exist beyond the vanilla launch configuration described above, including (a) the ability to launch a given app under an aliased name, (b) specifying command-line arguments to app at launch time and more. See the {{% resource_link "6c4d93e8-383b-44bb-a1a2-0d97874a28e6" "MOOS documentation" %}}.
+Further options exist beyond the vanilla launch configuration described above, including (a) the ability to launch a given app under an aliased name, (b) specifying command-line arguments to app at launch time and more. See the [MOOS documentation](http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php/Main/Documentation).
 
 A Simple Example with uTimerScript
 ----------------------------------

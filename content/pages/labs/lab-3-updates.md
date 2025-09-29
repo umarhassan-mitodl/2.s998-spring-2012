@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides supporting material for Lab 3.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains links to pages on introductory MOOS topics designed
   for the absolutely new MOOS user.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: MOOS Basics

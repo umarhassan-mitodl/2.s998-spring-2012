@@ -18,7 +18,7 @@ pXRelay is a simple MOOS app designed solely to illustrate basic functions of a 
 Where to get more information:
 
 *   Type pXRelay—example on the command line.
-*   [An Overview of MOOS-IvP and a Users Guide to the IvP Helm (Section 3.8) (PDF)](http://oceanai.mit.edu/moos-ivp-pdf/moosivp-helm.pdf)
+*   {{% resource_link "212c3c6f-f10e-44af-b6f3-d135092942c9" "An Overview of MOOS-IvP and a Users Guide to the IvP Helm (Section 3.8) (PDF)" %}}
 
 Basic pXRelay Usage
 -------------------

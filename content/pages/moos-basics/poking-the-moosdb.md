@@ -14,8 +14,8 @@ This page describes how to scope the MOOSDB. Scoping refers to the idea of havin
 
 Where to get more information:
 
-*   uXMS: From the MOOS-IvP Autonomy Tools Users Manual (find the most recent version of this document [here](http://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Support.Documentation)).
-*   uMS: [The MOOS Documents page](http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php/Main/Documentation).
+*   uXMS: From the MOOS-IvP Autonomy Tools Users Manual (find the most recent version of this document {{% resource_link "d9da38d5-a0e8-49c6-970b-808d0baf80d4" "here" %}}).
+*   uMS: {{% resource_link "57af08ab-60f3-4742-bb85-400929a64add" "The MOOS Documents page" %}}.
 
 Scoping the MOOSDB with uXMS:
 -----------------------------

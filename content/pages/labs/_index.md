@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of lab topics along with associated
   lab notes and supporting materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -124,17 +122,17 @@ Intro to Helm Autonomy
 
 Lab 6 video clips:
 
-\-[Modified alpha mission 1](http://youtu.be/l1YUycDw3TY)
+\-{{% resource_link "c071e392-ff7e-47e7-89e7-77d24bd73157" "Modified alpha mission 1" %}}
 
-\-[Modified alpha mission 2](http://youtu.be/NGyC9cofIkk)
+\-{{% resource_link "1594397c-2d1b-40cd-8d64-6659f6409b8d" "Modified alpha mission 2" %}}
 
-\-[Bravo mission 1](http://youtu.be/r1DTz7cSY7M)
+\-{{% resource_link "3b808a5d-4453-4251-b19d-e85cc31d2ad0" "Bravo mission 1" %}}
 
-\-[Bravo mission 2](http://youtu.be/JIi-dpHoib8)
+\-{{% resource_link "1e56f1d3-28aa-4ada-8046-c7f44306c951" "Bravo mission 2" %}}
 
-\-[Bravo UUV mission 1](http://youtu.be/cMVXUSs-7n0)
+\-{{% resource_link "18155dff-7ccb-4fbe-9a35-878997bf06bc" "Bravo UUV mission 1" %}}
 
-\-[Bravo UUV mission 2](http://youtu.be/DSocUycqqu4)
+\-{{% resource_link "4ab52ff4-c9f5-4671-bcef-306d28068de2" "Bravo UUV mission 2" %}}
 
 
 {{< tdclose >}}
@@ -157,11 +155,11 @@ Sim Multi-vehicle Ops Pt1
 
 Lab 7 video clips:
 
-\-[Times double loiter](http://youtu.be/MqAdlxnLiE8)
+\-{{% resource_link "45515d5f-5d44-44ff-8de2-022e21805e4f" "Times double loiter" %}}
 
-\-[Timed double traverse 1](http://youtu.be/otZ0UyldyyI)
+\-{{% resource_link "38d483a9-c04c-4783-88cc-a91daad4ad61" "Timed double traverse 1" %}}
 
-\-[Timed double traverse 2](http://youtu.be/rC_vPFzOsSs)
+\-{{% resource_link "ce53f254-903d-4595-8dcd-9c6f16b28553" "Timed double traverse 2" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +180,7 @@ Sim Multi-vehicle Ops Pt2
 
 Lab 8 video clips:
 
-\-[Timed double traverse with replanning](http://youtu.be/jHepobS7zoA)
+\-{{% resource_link "4ab40027-e137-43b2-ba9f-518871edb3f4" "Timed double traverse with replanning" %}}
 
 
 {{< tdclose >}}
@@ -205,7 +203,7 @@ Autonomous Collab Search 1–3
 
 Lab 9 video clips:
 
-\-[Vehicle loitering mission](http://youtu.be/fTPugowyBg0)
+\-{{% resource_link "98eec7c9-701b-48a4-b0cf-e102f73489ed" "Vehicle loitering mission" %}}
 
 
 {{< tdclose >}}

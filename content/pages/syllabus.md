@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, course objectives, equipment, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,8 +46,8 @@ Equipment
 
 This class will be contain several in-water project assignments using small unmanned surface craft launched from the MIT Sailing Pavilion. Wiki pages are available for both the Clearpath Robotics Kingfisher vehicles and the Robotic Marine Systems autonomous kayaks. Students will have write access to the wiki pages during the semester.
 
-*   [Kingfishers](http://oceanai.mit.edu/kfisher/pmwiki/pmwiki.php)
-*   [Autonomous Kayaks](https://www.technologyreview.com/s/407126/autonomous-kayaks/)
+*   {{% resource_link "939d9727-d3c9-42dd-8593-7283b5c81146" "Kingfishers" %}}
+*   {{% resource_link "537fe7b0-8fa3-4c23-8983-495fd45b457f" "Autonomous Kayaks" %}}
 
 Grading
 -------
